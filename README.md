@@ -1,0 +1,2 @@
+# Test-
+Industrial training class
